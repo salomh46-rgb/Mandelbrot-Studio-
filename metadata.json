@@ -1,0 +1,6 @@
+{
+  "name": "Mandelbrot Studio — Интерактивный исследователь фракталов",
+  "description": "Высокопроизводительный WebGL/Three.js исследователь множества Мандельброта с плавной раскраской, 3D-рельефом потенциала, пресетами и масштабированием в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
